@@ -1,1 +1,0 @@
-# Simple-product-analyzer
